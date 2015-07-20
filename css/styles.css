@@ -1,0 +1,10 @@
+table td {
+    border-top: none !important;
+}
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    /*max-width: 475px;*/
+  }
+}
